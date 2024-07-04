@@ -23,5 +23,4 @@ Start the run.py to train C^2IBKE and the corresponding ranks for link predictio
 [2] Haichuan Fang, Youwei Wang, Zhen Tian, and Yangdong Ye. Learning knowledge graph embedding with a dual-attention embedding network. Expert Systems with Applications, 212:118806, 2023.
 [3] Zhaoxuan Tan, Zilong Chen, Shangbin Feng, Qingyue Zhang, Qinghua Zheng, Jundong li, and Minnan Luo. Kracl: contrastive learning with graph context
 modeling for sparse knowledge graph completion. In Proceedings of the ACM Web Conference 2023, pages 2548-2559, 2023.
-[4] 
 ```
