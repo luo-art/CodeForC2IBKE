@@ -23,7 +23,6 @@ Start the run.py to train C^2IBKE and the corresponding ranks for link predictio
 [1] Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, and Sebastian
 Riedel. Convolutional 2d knowledge graph embeddings. In Proceedings
 of the AAAI conference on artiffcial intelligence, volume 32, 2018.
-
 [2] Haichuan Fang, Youwei Wang, Zhen Tian, and Yangdong Ye. Learning
 knowledge graph embedding with a dual-attention embedding network.
 Expert Systems with Applications, 212:118806, 2023.
